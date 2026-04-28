@@ -25,7 +25,7 @@ A backend system that fetches jobs, stores them, filters relevant ones, and send
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - FastAPI
 - SQLite (sqlite3)
