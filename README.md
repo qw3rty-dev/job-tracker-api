@@ -67,7 +67,7 @@ job-tracker-api/
 
 **1. Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/qw3rty-dev/job-tracker-api
 cd job-tracker-api
 ```
 
